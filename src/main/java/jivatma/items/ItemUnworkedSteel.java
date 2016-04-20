@@ -1,5 +1,10 @@
 package jivatma.items;
 
-public class ItemUnworkedSteel {
+import net.minecraft.item.Item;
 
+public class ItemUnworkedSteel extends Item{
+
+	public ItemUnworkedSteel(){
+		
+	}
 }

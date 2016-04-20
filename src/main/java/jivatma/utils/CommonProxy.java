@@ -36,7 +36,7 @@ public class CommonProxy {
 	}
 	
 	private void registerRecipes(){
-		
+		GameRegistry.addRecipe(output, params);
 	}
 	
 	private void registerEvents(){
